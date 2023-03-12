@@ -34,7 +34,6 @@ def Credit():
 	Space(9); print "#   +++ Admin Panel Finder v2.0 +++   #"
 	Space(9); print "#     Script by darkboss1    #"
 	Space(9); print "#      Cyber Security Researcher   #"
-			"#      Contact:t.me/darkboss1bd    #"
 	Space(9); print "#####################################"
 
 Credit()
