@@ -33,7 +33,7 @@ def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#   +++ Admin Panel Finder v2.0 +++   #"
 	Space(9); print "#     Script by darkboss1    #"
-	Space(9); print "#      Cyber Crackers   #"
+	Space(9); print "#      Cyber Security Researcher   #"
 	Space(9); print "#####################################"
 
 Credit()
